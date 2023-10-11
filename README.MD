@@ -11,6 +11,7 @@ This game was built for the [Ludum Dare](https://ldjam.com) 54 compo in less tha
 - [LÖVE](https://love2d.org/) as the game framework
 - [Chiptone](https://sfbgames.itch.io/chiptone) for sound generation
 - The [classic.lua](https://github.com/rxi/classic), [json.lua](https://github.com/rxi/json.lua), and [lovebird](https://github.com/rxi/lovebird) libraries
+- [makelove](https://github.com/pfirsich/makelove) to simplify the build process
 - A number of word datasets or publicly available lists (found in `res/lists/`):
   - [animals.lua](https://gist.github.com/EyeOfMidas/311e77b8b8c2f334fc8bdaf652c1f47f)
   - [colors.lua](https://github.com/codebrainz/color-names)
